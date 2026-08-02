@@ -23,7 +23,7 @@
 ### 工具箱
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,pytorch,git,github,vscode&theme=dark" alt="Python, TypeScript, PyTorch, Git, GitHub, VS Code"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
 ### 找到我
