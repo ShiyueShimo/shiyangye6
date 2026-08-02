@@ -1,32 +1,33 @@
-# Shiyang Ye (Elio) · 拾月
+<p align="center">
+  <img src="./assets/banner.svg" alt="夜晚的书桌:月亮、书、电脑和一杯热茶" width="100%"/>
+</p>
 
-**AI & software engineer · Wuhan, China**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1400&color=F5C97B&center=true&vCenter=true&repeat=true&width=640&height=45&lines=%E4%BD%A0%E5%A5%BD%2C%E6%88%91%E6%98%AF%E6%8B%BE%E6%9C%88Shimo;AI%20%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%20%E8%AF%BB%E4%B9%A6%E4%BA%BA;%E7%9B%B8%E4%BF%A1%E9%95%BF%E6%9C%9F%E4%B8%BB%E4%B9%89%2C%E6%85%A2%E6%85%A2%E6%9D%A5" alt="你好,我是拾月Shimo"/>
+</p>
 
-I study AI, use AI, and build things with AI: tools, agents, workflows, videos, and small commercial experiments. I document the real process in public, including the parts that fail.
+<p align="center">
+  <b>拾月Shimo · AI 工程师 · 武汉</b><br/>
+  写代码,也读书。关心三件事:用 AI 做出真实有用的东西、认知成长、长期主义。<br/>
+  <sub>AI engineer · avid reader · long-termist</sub>
+</p>
 
-> 人工智能科班工程师。在「拾月的AI之路」真实记录如何学习 AI、使用 AI,并用 AI 做工具、产品、视频、Agent、工作流和商业实验。不装权威,只讲真实过程。
+---
 
-## What I'm doing now
+### 最近在忙
 
-- Building practical AI tools and agent workflows, from idea to working product
-- Running small, honest experiments to find out which AI use cases actually hold up
-- Turning real project logs into build-in-public content (mostly in Chinese)
+- 折腾各种 AI 工具和 Agent 工作流,把过程记下来
+- 经营「拾月Shimo」:分享 AI 实操、阅读笔记和成长思考
+- 这个 GitHub 刚开张,做的项目会陆续放上来
 
-## Working with
+### 工具箱
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-2ea44f?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-e05d44?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,pytorch,git,github,vscode&theme=dark" alt="Python, TypeScript, PyTorch, Git, GitHub, VS Code"/>
+</p>
 
-## Coming soon to this account
+### 找到我
 
-This profile is brand new, so the repo list is still empty. On the way:
+全网同名「拾月Shimo」 · B站 / 抖音 / 小红书
 
-- Open-source versions of the small AI tools I build and actually use
-- Reproducible agent and workflow examples from my experiments
-- Templates and notes from my content research pipeline
-
-## Elsewhere
-
-- 「拾月的AI之路」- my Chinese content channel (Bilibili / Douyin / Xiaohongshu) documenting the journey
+<p align="center"><sub>日拱一卒,功不唐捐。</sub></p>
