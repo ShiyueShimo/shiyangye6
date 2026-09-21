@@ -27,17 +27,17 @@
 
 我是拾月 Shimo。这里记录我如何学习、思考，并把想法做成能运行的东西：从 AI 工具与工作流，到个人网站、小程序和内容产品，也会写下阅读、判断与复盘。
 
-<table>
+<table align="center">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>AI 实践</h3>
       Agent、知识库、提示词与可复用的工作流。
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>产品与工程</h3>
       个人网站、小程序、独立站与能上线的小工具。
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" valign="top" align="center">
       <h3>阅读与认知</h3>
       学习方法、长期记录，以及把想法讲清楚。
     </td>
@@ -47,7 +47,7 @@
 ## 公开入口
 
 | 入口 | 内容 |
-| --- | --- |
+| :---: | :---: |
 | [个人网站](https://shiyue-ai.com) | 公开简介、文章、产品记录与联系方式 |
 | [文章](https://shiyue-ai.com/blog) | 阅读认知、产品笔记与学习记录 |
 | [产品开发](https://shiyue-ai.com/lab) | 正在做，或已经上线的一些小东西 |
@@ -56,7 +56,7 @@
 ## 自媒体账号
 
 | 平台 | 账号 |
-| --- | --- |
+| :---: | :---: |
 | 公众号 | **拾月Shimo** |
 | 视频号 | **拾月Shimo** |
 | 抖音号 | **拾月Shimo** |
